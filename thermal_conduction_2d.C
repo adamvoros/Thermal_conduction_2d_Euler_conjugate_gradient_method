@@ -37,7 +37,6 @@ int nn(int i,int j){
     return n;
 }
 
-
 void ij(int n, int *i, int *j){
   double x;
   x=(double)(N+1);
